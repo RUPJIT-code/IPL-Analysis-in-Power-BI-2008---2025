@@ -9,3 +9,8 @@ Purple Cap Holder (Top Bowler stats by wickets).
 Top Performers in Sixes and Fours.
 Interactive Points Table by season.
 Season filter dropdown for dynamic updates.
+
+## 📂 Datasets
+The datasets used for building this IPL Power BI Dashboard are available on Google Drive.  
+👉 [Access Datasets Here]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1YobpXa8ucoaezOvOKQBMzs4Ju6NoOi4M?usp=drive_link))
+
